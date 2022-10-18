@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    margin-top: 95px;
+}
+
+.left {
+    padding-right: 100px;
+}
+
+.music-btn img {
+    margin: -168px;
+    margin-top: 16vh;
+}
+
+.right {
+    margin-top: 12vh;
+    padding-right: 150px;
+    border-color: 5px solid black;
+}
+
+.check-icon li::before {
+    font-family: fontAwsome;
+    content: black;
+}
+
+
+
+.btn {
+    /* border: 1px solid black; */
+    height: 125px;
+    width: 170px;
+    border-radius: 50%;
+    display: flex;
+    padding-right: -7px;
+    /* background-image: url(play.png); */
+    margin-right: 50px;
+    margin-top: 128px;
+    margin-left: -161px;
+}
+.btn img {
+    border-radius: 60px;
+}
